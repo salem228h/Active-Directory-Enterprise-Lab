@@ -25,3 +25,9 @@ Ticket ID: AD-005
 Category: Domain Join
 Priority: High
 Status: In Progress
+
+
+Ticket ID: AD-006
+Category: Group Policy
+Priority: High
+Status: In Progress
