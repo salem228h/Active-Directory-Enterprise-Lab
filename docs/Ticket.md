@@ -1,47 +1,75 @@
-Ticket ID: AD-001
-Category: Server Deployment
-Priority: High
-Status: In Progress
+# AD-001
 
+## Title
 
-Ticket ID: AD-002
-Category: Active Directory Installation
-Priority: High
-Status: In Progress
+Prepare Windows Server 2022
 
+## Priority
 
-Ticket ID: AD-003
-Category: Domain Controller Deployment
-Priority: Critical
-Status: In Progress
+High
 
-Ticket ID: AD-004
-Category: Active Directory Administration
-Priority: High
-Status: In Progress
+## Status
 
+Completed
 
-Ticket ID: AD-005
-Category: Domain Join
-Priority: High
-Status: In Progress
+## Tasks
 
+- Verify Windows Installation
+- Rename Server to DC01
+- Configure Static IP
+- Configure DNS
+- Verify Network Configuration
 
+## Result
 
+Windows Server successfully prepared for Active Directory deployment.
 
-Ticket ID: AD-006
-Category: Group Policy
-Priority: High
-Status: In Progress
+# AD-002
 
+## Title
 
-Ticket ID: AD-007
-Category: File Server
-Priority: High
-Status: In Progress
+Install Active Directory Domain Services
 
+## Priority
 
-Ticket ID: AD-008
-Category: DHCP & DNS
-Priority: High
-Status: In Progress
+High
+
+## Status
+
+Completed
+
+## Tasks
+
+- Install AD DS
+- Install DNS
+- Install Required Features
+
+## Result
+
+Active Directory successfully installed.
+
+# AD-003
+
+## Title
+
+Deploy First Domain Controller
+
+## Priority
+
+Critical
+
+## Status
+
+Completed
+
+## Tasks
+
+- Create New Forest
+- Configure Domain
+- Promote Server
+- Restart
+
+## Result
+
+DC01 became the first Domain Controller.
+
