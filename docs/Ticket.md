@@ -39,3 +39,9 @@ Ticket ID: AD-007
 Category: File Server
 Priority: High
 Status: In Progress
+
+
+Ticket ID: AD-008
+Category: DHCP & DNS
+Priority: High
+Status: In Progress
