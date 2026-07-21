@@ -27,7 +27,15 @@ Priority: High
 Status: In Progress
 
 
+
+
 Ticket ID: AD-006
 Category: Group Policy
+Priority: High
+Status: In Progress
+
+
+Ticket ID: AD-007
+Category: File Server
 Priority: High
 Status: In Progress
